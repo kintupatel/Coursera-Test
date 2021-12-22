@@ -7,7 +7,7 @@ body{
 }
 
 #header-nav {
-    background-color: #787878;
+    background-color: purple;
     border-radius: 0;
     border: 0;
     border: 2px solid black;
@@ -37,7 +37,7 @@ body{
 
 .navbar-brand h1 { 
     position: relative;
-    color: #000000;
+    color: #ffffff;
     font-size: 1.5em;
     margin-top: 8px;
     margin-bottom: 8px;
@@ -64,8 +64,8 @@ body{
     border-bottom: 2px solid black;
 }
 #nav-list a:hover {
-    background: #999999;
-    color: #fff;
+    background: #887878;
+    color: #444;
 }
 #nav-list a span {
     font-size: 1.8em;
@@ -80,7 +80,7 @@ body{
 #chicken, #beef, #sushi{
     padding: 5px 20px;
     font-size: 1.3em;
-    color: #000;
+    color: lightcyan;
 }
 
 .btn{
